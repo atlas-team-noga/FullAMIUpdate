@@ -1,0 +1,37 @@
+{
+  "jira": {
+    "project_key": "AMI",
+    "issue_type": "Business Service",
+    "reporter_account_id": "712020:a0114ff1-c0b0-4b9c-a18b-3d4b92f9c3fd"
+  },
+  "confluence": {
+    "page_id": "46170982",
+    "table_id": "da45ef24-e418-4a1c-918d-a6e59f9760cd",
+    "auto_update_table": true,
+    "auto_create_rules": true
+  },
+  "files": {
+    "automation_rules_table": "business_domain_automation_rules.json",
+    "log_file": "jira_sync.log"
+  },
+  "custom_fields": {
+    "business_domain_id": "customfield_12657",
+    "business_domain": "customfield_12658",
+    "business_domain_dropdown": "customfield_10591",
+    "business_service_id": "customfield_10519",
+    "business_service_jql": "Business service id[Short text]",
+    "business_service_name": "customfield_10489",
+    "business_service_short_name": "customfield_12823",
+    "business_service_status": "customfield_10541",
+    "business_service_usage": "customfield_10542",
+    "business_service_classification": "customfield_11623",
+    "business_service_option_id": "customfield_12822"
+  },
+  "dropdown_cascading_field": {
+    "bus_domain_and_service": "customfield_12690",
+    "context_id": "13122"
+  },
+  "notes": {
+    "template_automation_rule_id": "019a54cc-4e11-74a5-b53d-beb8be6be52c"
+  }
+}
